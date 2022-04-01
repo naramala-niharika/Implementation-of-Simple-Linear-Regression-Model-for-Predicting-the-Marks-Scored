@@ -48,7 +48,8 @@ plt.show()
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+![Output](https://github.com/naramala-niharika/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/k1.PNG?raw=true)
+![Output](https://github.com/naramala-niharika/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/k2.PNG?raw=true)
 
 
 ## Result:
